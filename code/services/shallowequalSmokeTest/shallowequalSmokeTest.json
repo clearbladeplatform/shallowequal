@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,shallowequal",
+    "logging_enabled": "false",
+    "name": "shallowequalSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "shallowequalSmokeTest.js"
+}
